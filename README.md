@@ -102,7 +102,7 @@ If there's an error in matching we return 500 status code, if no matches are fou
 Client directory contains all the shared components, routes, modules.
 
 #### components
-This folder contains all the common components which are used throughout the project.
+This folder contains all the common components which are used throughout the project. ..
 
 #### index.js
 Index.js simply does client side rendering using the data provided from `window.__INITIAL_STATE__`.
